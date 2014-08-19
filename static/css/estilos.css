@@ -7,6 +7,9 @@ a {
 a:hover {
   color: #e97a9e;
 }
+.icon-user {
+  color: #e97a9e;
+}
 .Container-button:hover {
   background: #e97a9e;
   color: #fff;
@@ -27,6 +30,7 @@ a:hover {
   background: #262626;
   display: block;
   height: 2.62em;
+  padding-top: 1em;
   text-align: center;
 }
 .SocialMenu-list {
@@ -37,9 +41,9 @@ a:hover {
   display: inline-block;
 }
 .SocialMenu-link {
-  color: #898989;
+  font-size: 1.2em;
   line-height: 2.62em;
-  margin: 1.5em;
+  margin: 1em;
   text-decoration: none;
 }
 .Logo {
@@ -210,7 +214,7 @@ a:hover {
 .Container-rightLink {
   font-size: 0.8em;
   font-weight: normal;
-  margin-right: 0.3em;
+  margin-right: 0.5em;
   text-decoration: none;
 }
 .Container-paragraph,
